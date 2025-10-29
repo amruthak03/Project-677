@@ -1,4 +1,4 @@
-# Facial Emotion Recognition & Song Recommendation
+# Real-Time Emotion-Driven Music Recommender
 ## Project Overview
 This project was completed as part of the course "Data Science with Python". The objective of this project was to develop a model that could predict facial emotions from images captured by the webcam using a Convolutional Neural Network (CNN). Additionally, the project aimed to recommend and play the most popular song on the Spotify application based on the emotion predicted.
 
